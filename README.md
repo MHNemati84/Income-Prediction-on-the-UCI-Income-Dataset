@@ -61,7 +61,7 @@ Hyperparameter tuning was performed using Grid Search / Random Search for select
   
 ---
 
-## Technologies Used
+## Dependencies
 - Python  
 - NumPy, Pandas  
 - scikit-learn  
