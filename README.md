@@ -61,18 +61,10 @@ Hyperparameter tuning was performed using Grid Search / Random Search for select
   
 ---
 
-## Dependencies
-- Python  
+## Dependencies 
 - NumPy, Pandas  
-- scikit-learn  
+- scikit-learn 
 - Matplotlib
 - Seaborn  
-- XGBoost  
-
----
-
-## How to Run
-
-```bash
-pip install -r requirements.txt
-jupyter notebook
+- XGBoost
+- LightGBM
